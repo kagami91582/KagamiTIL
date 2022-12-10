@@ -1,2 +1,2 @@
 # KagamiTIL
- 給給瑞的today i learned
+ 給瑞的today i learned
